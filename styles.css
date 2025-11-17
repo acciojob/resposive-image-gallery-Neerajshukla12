@@ -1,18 +1,10 @@
-/*  your css code here. If applicable */
-body {
-  margin: 0;
-  padding: 0;
-  display: flex;
-  justify-content: center;
-}
-
-.gallery {
+.cards {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 
-.gallery img {
+.cards img {
   max-width: 25vw;
   margin: 10px;
   border: 3px solid #000;
